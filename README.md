@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KW-coder.
+- 👋 Hi, I’m @Erii-coder.
 - 👀 I’m interested in datascience, photonics, and lifescience.
 - 🌱 I’m currently learning machine learning and electoronics.
 
