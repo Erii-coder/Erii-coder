@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erii-coder.
 - 👀 I’m interested in datascience, photonics, and lifescience.
-- 🌱 I’m currently learning machine learning and electoronics.
+- 🌱 I’m currently learning machine learning, electoronics and acoustics.
 
 <!---
 KW-coder/KW-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
