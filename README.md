@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erii-lab.
-- 👀 I’m interested in datascience, photonics, and lifescience.
+- 👀 I’m interested in datascience, photonics, and quantumscience.
 - 🌱 I’m currently learning machine learning, electoronics and acoustics.
 
 <!---
